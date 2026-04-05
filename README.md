@@ -45,6 +45,10 @@ Ensure you have the following installed on your machine:
 git clone [https://github.com/PraneetGogoi/ecommerce-retail-chatbot.git](https://github.com/PraneetGogoi/ecommerce-retail-chatbot.git)
 cd ecommerce-retail-chatbot
 ````
+<img width="1710" height="990" alt="Screenshot 2026-04-05 at 9 26 47 PM" src="https://github.com/user-attachments/assets/318ff3e1-85a2-40f2-b1c8-52cc9bdc54cc" />
+
+<img width="1710" height="986" alt="Screenshot 2026-04-05 at 9 27 29 PM" src="https://github.com/user-attachments/assets/70812092-2576-4257-9934-303e489bce32" />
+
 
 ### 2\. Frontend Setup
 
